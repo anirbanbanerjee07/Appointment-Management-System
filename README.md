@@ -4,17 +4,17 @@ A simple and efficient Appointment Management System built for managing doctor a
 --- 
 
 ## 🚀 Most Required
-1. **Admin Site Visit**
+1. ✅ **Admin Site Visit**
 ```
 Login email: admin@edoc.com
 login password: 123
 ```
-2. **Doctor Site Visit**
+2. ✅ **Doctor Site Visit**
 ```
 Login email: doctor@edoc.com
 login password: 123
 ```
-3. **Patient Site Visit**
+3. ✅ **Patient Site Visit**
 ```
 Login email: patient@edoc.com
 login password: 123
