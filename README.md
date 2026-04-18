@@ -3,7 +3,7 @@ A simple and efficient Appointment Management System built for managing doctor a
 
 --- 
 
-## 🚀 Features
+## 🚀 Most Required
 1. **Admin Site Visit**
 ```
 Login email: admin@edoc.com
