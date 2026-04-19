@@ -58,6 +58,38 @@ login password: 123
 
 ---
 
+## 🚀 Installation & Setup
+
+Follow these steps to run the project locally on your machine (using XAMPP/WAMP/MAMP)
+
+**1. Clone the Repository**
+
+git clone https://github.com/anirbanbanerjee07/Appointment-Management-System.git
+
+**2. Move to Project Folder**
+
+Navigate to the folder containing the project files.
+
+**3. Database Configuration**
+
+- Start Apache and MySQL from your XAMPP/WAMP control panel.
+- Open `http://localhost/phpmyadmin` in your browser.
+- Create a new database (e.g., edoc).
+- Import the provided .sql file located in the root folder.
+
+**4. Database Connection Setup**
+
+Open connection.php (or your respective database configuration file).
+Update the following credentials to match your local environment:
+```php
+$db_host = "localhost";
+ $db_name = "edoc"; // Your database name
+ $db_user = "root";       // Default XAMPP user
+ $db_pass = "";           // Default XAMPP password is empty
+```
+
+---
+
 ## 👨‍💻 Developer
 *Anirban Banerjee*
 
