@@ -9,6 +9,8 @@ A simple and efficient Appointment Management System built for managing doctor a
 Login email: admin@edoc.com
 login password: 123
 ```
+<img src="screenshot/Admin site/Administrator Home page.jpg" width="400">
+
 2. ✅ **Doctor Site Visit**
 ```
 Login email: doctor@edoc.com
