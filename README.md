@@ -16,11 +16,14 @@ login password: 123
 Login email: doctor@edoc.com
 login password: 123
 ```
+<img src="screenshot/Doctor site/doctor site home page.jpg" width="400">
+
 3. ✅ **Patient Site Visit**
 ```
 Login email: patient@edoc.com
 login password: 123
 ```
+<img src="screenshot/Patient site/Patient site home page.jpg" width="400">
 
 ---
 
