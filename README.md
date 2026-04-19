@@ -31,7 +31,7 @@ login password: 123
 - User Registration
 - Secure Login System
 - Password hashing (bcrypt)
-- JWT-based authentication
+- JWT-based authentication (Not Applied)
 
 ### 📅 Appointment System
 - Book appointments (Date + Time)
@@ -39,31 +39,30 @@ login password: 123
 - Cancel appointments
 - Prevent duplicate bookings for same slot
 
-### 🧠 Smart Validations
-- Required field validation
-- Duplicate slot prevention
-- Proper error handling
-
 ### 🎨 Frontend Features
-- Responsive UI (Tailwind CSS)
-- Vue 3 Composition API
-- Axios API integration
-- Protected routes
-- Loading states & error messages
+- 🎯 Responsive UI (Tailwind CSS)
+- ⚡ Vue 3 Composition API (modern & scalable)
+- 🔗 Axios API integration
+- 🔐 Protected routes (auth-based access)
+- ⏳ Loading states & clear error handling
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- PHP (Core PHP)
-- MySQL
-- Apache (XAMPP)
-- RESTful APIs
-
-### Frontend
-- Vue.js 3
-- Axios
-- Tailwind CSS
+- **Backend:** PHP (Pure & PDO)
+- **Database:** MySQL
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js
+- **Framework:** Git
+- **APIs:** RESTful APIs
 
 ---
+
+## 👨‍💻 Developer
+*Anirban Banerjee*
+
+- 🌐 LinkedIn: <a href="https://www.linkedin.com/in/anirban-banerjee-495775357" target="_blank" style="color: #FF0054; text-decoration: none;">Connect with me on LinkedIn</a>
+
+---
+
+Code ☕ Coffee 🔁 Repeat
